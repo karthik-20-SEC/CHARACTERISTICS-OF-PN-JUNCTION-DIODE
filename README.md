@@ -46,13 +46,14 @@ Tabulation :
 ![4exp](https://github.com/user-attachments/assets/bed66385-89f2-495b-ad9f-08ee1961ed34)
 
 
-
 Model Graph:
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
 
 
 Result:
+
 ![WhatsApp Image 2026-03-17 at 2 39 59 PM](https://github.com/user-attachments/assets/8f3ddfb8-cfce-4def-a0d9-2e7c1a22b420)
+
 ![WhatsApp Image 2026-03-17 at 2 40 14 PM](https://github.com/user-attachments/assets/5c3d1992-664e-420c-b3bd-c38c0ea4b31a)
 
 
