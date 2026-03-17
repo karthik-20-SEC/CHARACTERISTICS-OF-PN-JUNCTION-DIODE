@@ -44,6 +44,7 @@ Note the corresponding current reading in Ammeter.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
    
 Tabulation :
+
 ![4exp](https://github.com/user-attachments/assets/bed66385-89f2-495b-ad9f-08ee1961ed34)
 
 
